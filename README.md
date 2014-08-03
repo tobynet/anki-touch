@@ -27,8 +27,8 @@ Inspired by [Tinder] and [mikan].
 When you see the front of card on Anki...
 
 * **Begin to touch screen** to `Show answer`.
-* Keep it and **swipe left** to `Good`, it means **CORRECT!, REMEBERED!**
-* Or, **swipe right** to `Again`, it means **MISS, FORGOTTEN**
+* Keep it and **swipe right** to `Good`, it means **CORRECT!, REMEBERED!**
+* Or, **swipe left** to `Again`, it means **MISS, FORGOTTEN**
 
 
 ## Install
