@@ -10,7 +10,7 @@ Anki 2.x add-on that helps using with the touch interface.
 
 I have a problem which is hard to use Anki 2.x with touch on the Microsoft Surface Pro 3.
 
-This addon aims for easy to use on touch devices.
+This addon aims for easy to use with the touch device.
 
 Inspired by [Tinder] and [mikan].
 
@@ -19,14 +19,14 @@ Inspired by [Tinder] and [mikan].
 
 * [Anki] 2.0 or lator
 * Windows 8.1 with the touch interface.
-    * Perhaps, it will be able to use at linux desktop.
+    * Perhaps, it will be able to use at linux desktop...
 
 
 ## How to use
 
-When you see the front of card...
+When you see the front of card on Anki...
 
-* **Press screen** to `Show answer`.
+* **Begin to touch screen** to `Show answer`.
 * Keep it and **swipe left** to `Good`, it means **CORRECT!, REMEBERED!**
 * Or, **swipe right** to `Again`, it means **MISS, FORGOTTEN**
 
@@ -54,6 +54,14 @@ When you see the front of card...
 ## License
 
 [AGPL3](https://github.com/tobynet/anki-touch/blob/master/LICENSE)
+
+## Contribution
+
+1. Fork it ( https://github.com/tobynet/anki-touch/fork )
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
 
 
 [Anki]: http://ankisrs.net/
