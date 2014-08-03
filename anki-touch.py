@@ -5,6 +5,8 @@
 # License: GNU AGPL, version 3 or later;
 # http://www.gnu.org/copyleft/agpl.html
 
+__Version__ = "0.1.0"
+
 """Add-on for Anki 2.x that helps using with the touch interface."""
 
 from PyQt4.QtCore import Qt, QEvent
